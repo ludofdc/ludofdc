@@ -36,4 +36,3 @@ Email: ludofdc [at] gmail [dot] com
 
 ### Fun
 Outdoor sports: sailing, motorsport and golf (not necessarily in that particular order).
--->
