@@ -28,7 +28,7 @@ My main project is a research-oriented thesis on the simulation of electron spil
 
 ### Background and goals
 Physics background. 
-I’m currently learning HTML language and improving my coding skills
+I’m currently improving my coding skills
 Currently seeking a 6-month internship in data, quant or research-oriented roles, followed by a second-level degree.
 
 ### Contact
