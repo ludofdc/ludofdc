@@ -29,7 +29,6 @@ My main project is a research-oriented thesis on the simulation of electron spil
 
 ### Background and goals
 Physics background. 
-I’m currently improving my coding skills
 Currently seeking a Master's degree in Scientific Computing / Computational Science.
 
 ### Contact
