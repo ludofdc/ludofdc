@@ -6,7 +6,7 @@ My main project is a research-oriented thesis on the simulation of electron spil
 
 ---
 
-### Current work
+### Main work
 **Simulation of electron spill-out from a thin metallic slab**
 
 - Self-consistent numerical modeling based on DFT
@@ -14,6 +14,7 @@ My main project is a research-oriented thesis on the simulation of electron spil
 - Core solvers implemented in C++
 - Data analysis and visualization in Python
 - Emphasis on numerical stability, convergence and physical consistency
+- Here you can find the link to the repo: https://github.com/ludofdc/electron-spillout-slab
 
 ---
 
@@ -29,7 +30,7 @@ My main project is a research-oriented thesis on the simulation of electron spil
 ### Background and goals
 Physics background. 
 I’m currently improving my coding skills
-Currently seeking a 6-month internship in data, quant or research-oriented roles, followed by a second-level degree.
+Currently seeking a Master's degree in Scientific Computing / Computational Science.
 
 ### Contact
 Email: ludofdc [at] gmail [dot] com
