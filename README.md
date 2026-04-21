@@ -27,6 +27,14 @@ My main project is a research-oriented thesis on the simulation of electron spil
 
 ---
 
+### Other projects
+**Villa La Margherita — Website**  
+Static website for a historic venue, built from scratch in HTML/CSS/JS.  
+Custom animations, responsive design, SEO optimization, custom domain via GitHub Pages.  
+→ [villalamargherita.com](https://www.villalamargherita.com) · [repo](https://github.com/ludofdc/Website-La-Margherita)
+
+---
+
 ### Background and goals
 Physics background. 
 Currently seeking a Master's degree in Scientific Computing / Computational Science.
